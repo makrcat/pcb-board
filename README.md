@@ -15,6 +15,11 @@ The other 3 lights are just controlled by separate buttons, respectively.
 - 1 transistor
 
 My slack username is Eucatastrophe right now
+<details>
+<summary>Here's my ID</summary>
+U0925Q3PB0Q
+</details>
+
 
 <img src="images/schematic.png" width="500px">
 
