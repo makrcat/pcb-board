@@ -12,7 +12,7 @@ The other 3 lights are just controlled by separate buttons, respectively.
 - 5 buttons (6mm tactile ones)
 - 4 LEDS (5mm)
 - 1 (one) 3V battery + battery holder
-- 7 resistors 
+- 6 resistors , 220 ohm
 - 2 NPN transistors 
 
 My slack username is Eucatastrophe right now
