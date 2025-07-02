@@ -1,6 +1,8 @@
-# first PCB board :)
+# first PCB board
 
 <img src="images/3D.png" width="500px">
+
+there is kind of a song that goes with it :)
 
 ### What is it?
 There's two parts to the circuit, basically. One part is a logical AND (I hope)
